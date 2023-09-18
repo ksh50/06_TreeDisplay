@@ -1,0 +1,15 @@
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\bin\Debug\net7.0\06_TreeDisplay.exe
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\bin\Debug\net7.0\06_TreeDisplay.deps.json
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\bin\Debug\net7.0\06_TreeDisplay.runtimeconfig.json
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\bin\Debug\net7.0\06_TreeDisplay.dll
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\bin\Debug\net7.0\06_TreeDisplay.pdb
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.csproj.AssemblyReference.cache
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.AssemblyInfoInputs.cache
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.AssemblyInfo.cs
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.csproj.CoreCompileInputs.cache
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.dll
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\refint\06_TreeDisplay.dll
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.pdb
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\06_TreeDisplay.genruntimeconfig.cache
+C:\Users\kishi\Desktop\vscode\Tree\06_TreeDisplay\obj\Debug\net7.0\ref\06_TreeDisplay.dll
